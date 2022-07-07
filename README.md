@@ -14,3 +14,12 @@
 
 - At last we worked on a hypothesis testing, which works around the quality of air before and after COVID-19.
 
+#### The Following steps are followed for our analysis:
+- Data Collection
+- Data Preprocessing and Cleaning
+- Data Visualization
+- Data Statistics
+- Data Interpretation
+- Hypothesis Testing
+- Prediction
+
